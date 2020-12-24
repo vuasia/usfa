@@ -1,0 +1,39 @@
+razorphimzz.com/wp-content/uploads/2020/10/*.mp4
+dongphym.net##[id*=apreload-popup]
+https://static.voocdn.com/images/vid/*.mp4
+dongphym.net##[id*=abanner]
+dongphym.net##[class*=aballon-left]
+dongphym.net##[class*=aballon-right]
+dongphym.net##[class*=player-banner]
+dongphym.net##[class*=img-responsive]
+razorphimzz.com##[id*=divFLRALeft]
+razorphimzz.com##[id*=divFLRARight]
+razorphimzz.com##[class*=display]
+! 2020-11-08 https://phimgi.tv
+phimgi.tv##.mobile-catfix
+vphimz.net##[id*=overlay]
+
+! 2020-11-11 https://www.washingtonpost.com
+www.washingtonpost.com##.paywall-overlay.bottom-0.right-0.left-0.fixed
+
+! 2020-11-11 https://tinhte.vn
+photo2.tinhte.vn/data/attachment-files/2020/11/5214280_Tiki1111-HeroMasthead-TinhTe.jpg$image
+dongphym.net/images/dp/ramt7.jpg
+
+! 2020-11-13 https://razorphimzz.com
+||razorphimzz.com/wp-content/uploads/2020/11/200x600-NETFLIX-ADS.mp4$media
+https://vkcdn.online/RIO66.mp4
+! 2020-11-17 https://vnexpress.net
+||vcdn1-sohoa.vnecdn.net/2020/11/13/LcLccutelcli-1605259719-5983-1605260051.gif?w=300&h=180&q=100&dpr=1&fit=crop&s=QqNlhuyDVJQLS2vsfKCNvg&t=video$media
+
+! 2020-11-19 https://razorphimzz.com
+razorphimzz.com##p > [href="https://www.facebook.com/RazorSubteam/"]
+
+! 2020-11-29 https://www.phimmedia.me
+www.phimmedia.me##[href^="https://www.dd7.xyz/"]
+www.phimmedia.me##[href^="https://www.vz681.com/"]
+
+! 2020-12-19 https://ngoisao.net
+||vcdn1-ngoisao.vnecdn.net/2020/08/13/4b8l3n-1597251509-5234-1597252468.gif?w=300&h=180&q=100&dpr=1&fit=crop&s=EtOofNZAyYHy6H53lgyH0Q&t=video$media
+||vcdn1-ngoisao.vnecdn.net/2020/08/13/4b8l3n-1597251509-5234-1597252468.gif$media
+
