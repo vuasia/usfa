@@ -103,4 +103,4 @@ phimgii.net##.pc-catfix
 phimgii.net##.computer.lightbox-player-pc
 
 mphimmoiitv.com##[class*=catfishLoader]
-
+mphimmoiitv.com##[class*=banner-top-pc]
