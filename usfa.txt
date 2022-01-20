@@ -106,3 +106,4 @@ mphimmoiitv.com##[class*=catfishLoader]
 mphimmoiitv.com##[class*=banner-top-pc]
 mphimmoiitv.com##[class*=banner-top-mobile]
 mphimmoitv.net##.pcCatfish
+mphimmoitv.net##div.banner-top-pc
