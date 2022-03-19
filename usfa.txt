@@ -111,3 +111,5 @@ mphimmoitv.net##div.banner-top-mobile
 phimgii.tv##.computer.lightbox-player-pc
 phimgii.tv##.computer.lightbox-player-mobile
 phimgii.tv##.pc-catfix
+##.pc-catfix
+##.mobile-catfix
