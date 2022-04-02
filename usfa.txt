@@ -114,3 +114,8 @@ phimgii.tv##.pc-catfix
 ##.pc-catfix
 ##.mobile-catfix
 ##.ipprtcnt
+##.show.m_bottom.bn_bottom_fixed
+###page-info > div.nopadding > .container
+##.info > div.nopadding > .container
+##.BanerTop100.container
+##.col-lg-4.banner_right_play > .nopadding
