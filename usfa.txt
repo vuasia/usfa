@@ -119,3 +119,5 @@ phimgii.tv##.pc-catfix
 ##.info > div.nopadding > .container
 ##.BanerTop100.container
 ##.col-lg-4.banner_right_play > .nopadding
+##.computer.lightbox-player-pc
+##.computer.lightbox-mobile
