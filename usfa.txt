@@ -121,3 +121,23 @@ phimgii.tv##.pc-catfix
 ##.col-lg-4.banner_right_play > .nopadding
 ##.computer.lightbox-player-pc
 ##.computer.lightbox-mobile
+###catfish-banner
+
+! 2022-10-30 https://emphimmoi.com
+##div.banner-top-pc:nth-of-type(6)
+##div.banner-top-pc > [href="https://cutt.ly/xHVMzir"]
+##div.banner-top-pc:nth-of-type(1)
+###pcCatfishAdditional
+##a[href="javascript:hideCatfish()"]
+##div.banner-top-pc
+##.floadAdsToLeft
+
+! 2022-10-30 https://tvhayy.org
+tvhayy.org##.ab3
+
+! 2022-11-06 https://emphimmoi.com
+##.preload.preloadPc
+
+! 2022-11-06 https://biphimtv.co
+##div#mobileCatfishz
+##.ai-viewport-1.code-block-36.code-block
