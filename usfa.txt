@@ -97,20 +97,20 @@ simplywall.st##overlayed:style(filter: none !important)
 bloomberg.com##.blur-container:style(filter: none !important)
 
 ! 2021-11-06 https://phimgii.net
-phimgii.net##.pc-catfix
+##.pc-catfix
 
 ! 2021-11-14 https://phimgii.net
-phimgii.net##.computer.lightbox-player-pc
+##.computer.lightbox-player-pc
 
-mphimmoiitv.com##[class*=catfishLoader]
-mphimmoiitv.com##[class*=banner-top-pc]
-mphimmoiitv.com##[class*=banner-top-mobile]
-mphimmoitv.net##.pcCatfish
-mphimmoitv.net##div.banner-top-pc
-mphimmoitv.net##div.banner-top-mobile
-phimgii.tv##.computer.lightbox-player-pc
-phimgii.tv##.computer.lightbox-player-mobile
-phimgii.tv##.pc-catfix
+##[class*=catfishLoader]
+##[class*=banner-top-pc]
+##[class*=banner-top-mobile]
+##.pcCatfish
+##div.banner-top-pc
+##div.banner-top-mobile
+##.computer.lightbox-player-pc
+##.computer.lightbox-player-mobile
+##.pc-catfix
 ##.pc-catfix
 ##.mobile-catfix
 ##.ipprtcnt
