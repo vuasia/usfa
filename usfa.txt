@@ -141,3 +141,9 @@ tvhayy.org##.ab3
 ! 2022-11-06 https://biphimtv.co
 ##div#mobileCatfishz
 ##.ai-viewport-1.code-block-36.code-block
+! 2023-03-03 https://phimgiff.net
+phimgiff.net##.computer.lightbox-player-pc
+
+! 2023-03-03 https://phimnhua.com
+phimnhua.com##.center-screen.backdrop
+phimnhua.com##.topless.container
