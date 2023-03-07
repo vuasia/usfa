@@ -147,3 +147,67 @@ phimgiff.net##.computer.lightbox-player-pc
 ! 2023-03-03 https://phimnhua.com
 phimnhua.com##.center-screen.backdrop
 phimnhua.com##.topless.container
+! 2022-11-06 https://dongphymtv.net
+dongphymtv.net###top_oddd
+dongphymtv.net##.right-box.top-block
+dongphymtv.net##.container.banner-sticky-footer-container
+
+! 2022-11-06 https://vphimzzz.net
+vphimzzz.net###overlay
+
+! 2022-11-06 https://biphimtv.co
+||dongphims.com/*/fb88v2.mp4$media
+
+! 2022-11-06 https://www.phimdinhcao.net
+www.phimdinhcao.net##.popUpBannerBox
+
+! 2022-11-06 https://ngoisao.vnexpress.net
+ngoisao.vnexpress.net##body > div > .center
+
+! 2022-11-07 https://www.phimdinhcao.net
+www.phimdinhcao.net##div.nopadding > .container
+
+! 2022-11-07 https://dantri.com.vn
+
+
+! 2022-11-09 https://phimnhua.com
+phimnhua.com##.center-screen.backdrop
+phimnhua.com##.topless.container
+
+! 2022-11-12 https://phimmoichilly.net
+###catfishs_content
+###chilladv
+###topnc
+
+! 2022-11-15 https://dantri.com.vn
+dantri.com.vn###bannerMasthead
+
+! 2022-11-20 https://nuotvl.com
+nuotvl.com###overlay
+nuotvl.com##.text-center.noPadding.container
+
+! 2022-11-26 https://vnexpress.net
+vnexpress.net##.wrap-hd-adblock
+
+! 2022-11-28 https://www.techrum.vn
+www.techrum.vn##.is-active.p-body-sidebar
+www.techrum.vn##.porta-articles-above-full > .block > .block-container
+
+! 2022-11-28 https://vnexpress.net
+
+vnexpress.net##.button-adblock
+
+! 2022-12-03 https://thinkview.vn
+thinkview.vn##.py-4.px-5.ce-block__content
+thinkview.vn##.isLoading.lazyLoad
+
+! 2022-12-05 https://www.ndtv.com
+www.ndtv.com##.noti_bgstyle
+dantri.com.vn##.dta-100040-container
+
+! 2022-12-08 https://dantri.com.vn
+dantri.com.vn##.parent_vn_dantri_curation_desktop_ov.dta-unit
+
+! 2023-01-24 https://motphimchill.com
+motphimchill.com##.ad-container
+
