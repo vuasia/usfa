@@ -209,5 +209,10 @@ dantri.com.vn##.dta-100040-container
 dantri.com.vn##.parent_vn_dantri_curation_desktop_ov.dta-unit
 
 ! 2023-01-24 https://motphimchill.com
+! 2024-05-28 https://dantri.com.vn
+dantri.com.vn###desktop-top-page
+
+! 2024-06-13 https://phimnhua.net
+phimnhua.net##.center-screen.backdrop
 motphimchill.com##.ad-container
 
