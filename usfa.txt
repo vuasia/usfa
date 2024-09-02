@@ -215,4 +215,4 @@ dantri.com.vn###desktop-top-page
 ! 2024-06-13 https://phimnhua.net
 phimnhua.net##.center-screen.backdrop
 motphimchill.com##.ad-container
-
+##.computer.lightbox-player-pc
