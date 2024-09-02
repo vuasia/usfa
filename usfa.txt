@@ -216,3 +216,4 @@ dantri.com.vn###desktop-top-page
 phimnhua.net##.center-screen.backdrop
 motphimchill.com##.ad-container
 ##.computer.lightbox-player-pc
+##.popUpBannerBox
