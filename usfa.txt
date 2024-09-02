@@ -218,3 +218,4 @@ motphimchill.com##.ad-container
 ##.computer.lightbox-player-pc
 ##.popUpBannerBox
 ##.popUpBannerContent
+###p-GMH
