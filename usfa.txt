@@ -220,3 +220,4 @@ motphimchill.com##.ad-container
 ##.popUpBannerContent
 ###p-GMH
 ##.catfish-top
+##.show.m_top.bn_top_fixed
