@@ -219,3 +219,4 @@ motphimchill.com##.ad-container
 ##.popUpBannerBox
 ##.popUpBannerContent
 ###p-GMH
+##.catfish-top
