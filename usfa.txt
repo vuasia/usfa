@@ -222,3 +222,4 @@ motphimchill.com##.ad-container
 ##.catfish-top
 ##.show.m_top.bn_top_fixed
 ##testBanner
+###testBanner
