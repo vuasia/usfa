@@ -223,3 +223,21 @@ motphimchill.com##.ad-container
 ##.show.m_top.bn_top_fixed
 ##testBanner
 ###testBanner
+! May 24, 2025 https://dantri.com.vn
+dantri.com.vn###desktop-home-top-page
+
+! May 27, 2025 https://tuoitre.vn
+tuoitre.vn###LeaderBoardTop
+
+! May 28, 2025 https://vnexpress.net
+vnexpress.net##.banner-top-home.banner-ads.section-ads-top.section
+vnexpress.net##.banner-ads
+
+! Jun 2, 2025 https://www.nguoi-viet.com
+
+||youtube.com^$3p,frame,redirect=click2load.html
+||youtube-nocookie.com^$3p,frame,redirect=click2load.html
+
+! Jun 2, 2025 https://ngoisao.vnexpress.net
+ngoisao.vnexpress.net###supper_masthead
+
