@@ -1,0 +1,10 @@
+It is actually very easy and can be done in just a minute. Here are the steps:
+
+Activate the uBlock Origin icon in the browser's toolbar and select the "open the dashboard" option to open the management dashboard.
+Switch to the "My filters" section when the page opens.
+Add the following two lines to the list of filters:
+||youtube.com^$3p,frame,redirect=click2load.html
+||youtube-nocookie.com^$3p,frame,redirect=click2load.html
+Click on "apply changes" to save the new filters.
+Once done, visit any site with YouTube embeds to test the filters. You can try our Vivaldi 2.10 review for example, as it includes a video embed.
+
