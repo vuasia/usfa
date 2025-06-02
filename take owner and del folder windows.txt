@@ -1,0 +1,3 @@
+takeown /r /d y /f found.000 
+icacls found.000 /reset /t
+Remove-Item -Path "D:\found.000" -Recurse -Force
