@@ -244,4 +244,5 @@ ngoisao.vnexpress.net###supper_masthead
 ###fixedBanner
 ###customBanner2
 ##.custom-banner-container-2
-
+###ad-banner
+##.ad-images
