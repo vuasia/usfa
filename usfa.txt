@@ -240,4 +240,6 @@ vnexpress.net##.banner-ads
 
 ! Jun 2, 2025 https://ngoisao.vnexpress.net
 ngoisao.vnexpress.net###supper_masthead
+##.custom-banner-container
+###fixedBanner
 
