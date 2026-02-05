@@ -246,3 +246,7 @@ ngoisao.vnexpress.net###supper_masthead
 ##.custom-banner-container-2
 ###ad-banner
 ##.ad-images
+www.nguoi-viet.com##video[preload], audio[preload]
+www.nguoi-viet.com##video[autoplay], audio[autoplay]
+
+
